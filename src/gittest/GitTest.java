@@ -1,8 +1,7 @@
 package gittest;
 
 /**
- *
- * @author 000329744 - Xiomara Torrez Muñoz
+ * PROYECTO XIOMY
  */
 public class GitTest {
 
